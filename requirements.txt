@@ -3,3 +3,4 @@ pytest
 pandas
 openpyxl
 lxml
+html5lib
