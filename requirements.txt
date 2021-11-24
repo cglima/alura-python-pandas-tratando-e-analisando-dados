@@ -5,3 +5,4 @@ openpyxl
 lxml
 html5lib
 BeautifulSoup4
+matplotlib
